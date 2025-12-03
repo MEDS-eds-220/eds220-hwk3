@@ -1,4 +1,9 @@
-.ipynb_checkpoints
+data/.ipynb_checkpoints
+data/tl_2023_us_county
+data/Spill_Incidents_20251104.csv
+data/tl_2023_us_county.shp
+
+.OTTER_LOG
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
